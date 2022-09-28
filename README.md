@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Title
+
+This is a Amazon Web 3.0 website  for NFT product built using Blockchain technology.In this platform user can login using MetaMask and can purchase NFT on exchange of Crypto-coins.Here user can convert his Crypto to Amazon Coin by which can purchase poducts. 
+
+## Tech Stack
+
+**Client:** Next Js, Tailwind css
+**Smart-contract**HardHat,OpenZepplin(For custom coin in ERC-20)
+**Server:** moralis.io,
 
 ## Getting Started
 
@@ -18,17 +26,18 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+- Live previews
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot (7)](https://user-images.githubusercontent.com/110468423/191088536-8f50ca5f-124c-4627-9532-058f981f7c6f.png)
 
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Authors
+
+- [@geekychandan](https://github.com/geekychandan)
