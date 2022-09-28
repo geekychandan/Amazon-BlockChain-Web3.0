@@ -30,7 +30,29 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 - Live previews
 
-![Screenshot (7)](https://user-images.githubusercontent.com/110468423/191088536-8f50ca5f-124c-4627-9532-058f981f7c6f.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/110468423/192705824-462bd28e-6f90-4f1d-9da1-18b8374897e3.png)
+
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/110468423/192705850-c5b47bb8-61ce-4fda-81ad-4fa03fa4edc2.png)
+
+
+
+![Screenshot (22)](https://user-images.githubusercontent.com/110468423/192705879-bf89dd8e-9789-4c19-8b32-5595ffae278b.png)
+
+
+
+![Screenshot (23)](https://user-images.githubusercontent.com/110468423/192705951-3bdec0e0-72bc-4e2d-8fdf-17dc3fd65631.png)
+
+
+
+![Screenshot (24)](https://user-images.githubusercontent.com/110468423/192706022-c98e6702-2d18-4d56-9228-f57362fb06be.png)
+
+
+
+![Screenshot (25)](https://user-images.githubusercontent.com/110468423/192706046-fa3b2861-fc33-4721-beac-18b939ad5bf6.png)
+
+
 
 ## Deploy on Vercel
 
